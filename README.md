@@ -12,7 +12,6 @@ Este proyecto consiste en el desarrollo de un analizador léxico que actúa como
 - **Programación de Sistemas Base I**
 
 ## Funcionalidades
-- Detección de palabras sin acento cuando deberían llevarlo.
-- Corrección de acentos en palabras que requieren tilde.
-- Lectura de palabras sin corregir en archivo de texto
-- Ejecutable en Consola de Java.
+- Detección y Correccion de palabras sin acento cuando deberían llevarlo.
+- Lectura de palabras sin corregir en archivo de texto llamado "Palabras"
+- Salida de palabras corregidas en otro archivo de texto llamado "Corregido"
